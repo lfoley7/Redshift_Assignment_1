@@ -1,0 +1,1 @@
+For June 2022, count the number of donations completed by each charity and show the top 10 charities by completed donation count.

@@ -1,0 +1,1 @@
+For Q1 2023, list the 10 oldest leads with a non-null partner_id, showing lead id, creation date, and partner name.

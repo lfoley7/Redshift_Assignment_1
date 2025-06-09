@@ -1,0 +1,1 @@
+For August 2022, list the 10 oldest leads that have a donation, showing lead id, creation date, donation id, and the donation's creation date.

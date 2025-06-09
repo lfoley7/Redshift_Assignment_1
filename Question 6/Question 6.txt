@@ -1,0 +1,1 @@
+List the 10 earliest partner completed donation events from Q4 2022, showing event id, created_at, and associated donation id.

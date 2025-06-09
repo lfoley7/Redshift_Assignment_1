@@ -1,0 +1,1 @@
+Find all 125 stores created in March 2023 with their id, name, associated charity name, and creation timestamp.

@@ -1,0 +1,1 @@
+List the 10 most recently created charities from Q2 2022, showing the charity id, name, and creation date.

@@ -1,0 +1,1 @@
+For Q2 2022, find the top 10 partners by the number of unique donors (donor email) they served, showing partner name and unique donor count.

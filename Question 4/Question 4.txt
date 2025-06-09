@@ -1,0 +1,1 @@
+List the first 10 leads from February 2023 that have a non-null donation_id, showing lead id, creation date, and donation_id.

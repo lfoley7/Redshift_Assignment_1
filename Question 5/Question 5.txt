@@ -1,0 +1,1 @@
+Pull the 10 oldest donations from July 2022, showing donation id, creation date, donor name, and associated charity name.
